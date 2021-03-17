@@ -1,1 +1,0 @@
-# grpc-bug-test
