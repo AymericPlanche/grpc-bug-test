@@ -1,8 +1,8 @@
 {
-  "name": "AymericPlanche/grpc-bug-test",
+  "name": "aymericplanche/grpc-bug-test",
   "type": "project",
   "description": "Test",
   "require": {
-    "google/cloud-spanner": "^1.34"
+    "google/cloud-spanner": "^1.36"
   }
 }
